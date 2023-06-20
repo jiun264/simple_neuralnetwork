@@ -28,3 +28,4 @@ utils.py: Contains utility functions for data preprocessing and visualization.
 data.csv: Dataset file containing the generated training data.
 Results
 The model is trained for 1000 iterations, and the training loss is plotted during the training process.
+![download](https://github.com/jiun264/simple_neuralnetwork/assets/121162358/47d2f930-4e7d-4dc7-9c2a-d3d6ab408d76)
