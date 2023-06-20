@@ -13,7 +13,7 @@ This is a deep learning model for predicting the sum of two random four-digit nu
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/deep-learning-model.git
+git clone https://github.com/jiun264/simple_neuralnetwork.git
 
 2. Install the required dependencies:
 pip install numpy matplotlib
