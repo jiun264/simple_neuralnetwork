@@ -1,4 +1,4 @@
-# Deep Learning Model
+# simple_neuralnetwork
 
 This is a deep learning model for predicting the sum of two random four-digit numbers.
 
